@@ -3,3 +3,17 @@
 	border-color: black;
 	border-width: 1px;
 }
+.gold-box {
+	background-color: #E87E04;
+	border-color: black;
+	border-width: 1px;
+}
+.orange-box {
+	background-color: #F2784B;
+	border-color: black;
+	border-width: 1px;
+}
+.image {
+	float: left;
+margin : 10px;
+}
